@@ -13,7 +13,7 @@ and for the moments of disconnection they provide.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am curious to see if I can create a virtual landscape through code as if it were a landscape painted with watercolors.
 
-############################################################################################################################
+##################################################################################################
 
 👋 ¡Hola, soy @MarPrieto7 = MarPrieto7!
 Amo el arte y la naturaleza, por sus paisajes, por la paleta de colores, matices que se descubren,
