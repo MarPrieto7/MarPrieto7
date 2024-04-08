@@ -15,18 +15,18 @@ and for the moments of disconnection they provide.
 
 ##################################################################################################
 
-👋 ¡Hola, soy @MarPrieto7 = MarPrieto7!
-Amo el arte y la naturaleza, por sus paisajes, por la paleta de colores, matices que se descubren,
+#👋 ¡Hola, soy @MarPrieto7 = MarPrieto7!
+- Amo el arte y la naturaleza, por sus paisajes, por la paleta de colores, matices que se descubren,
 y por los momentos de desconexión que proporcionan.
-👀 Estoy interesada en el aprendizaje continuo, y siguiendo esta búsqueda constante de cómo se construye un sitio web,
+- 👀 Estoy interesada en el aprendizaje continuo, y siguiendo esta búsqueda constante de cómo se construye un sitio web,
 qué seguridad se puede proporcionar.
-He decidido estudiar un Bootcamp de Desarrollo Web Full Stack + Ciberseguridad,
+- He decidido estudiar un Bootcamp de Desarrollo Web Full Stack + Ciberseguridad,
 y estoy descubriendo un mundo de frontend, donde se puede crear magia, que se convierte en realidad,
 y un backend, donde hay oscuridad, pero aprendo a proporcionar seguridad y claridad.
-🌱 Actualmente estoy aprendiendo React, Mongo, Docker, y empezando con Ciberseguridad.
-💞️ Mi colaboración o contribución a GitHub es intentar entregar y subir todos los proyectos.
+- 🌱 Actualmente estoy aprendiendo React, Mongo, Docker, y empezando con Ciberseguridad.
+- 💞️ Mi colaboración o contribución a GitHub es intentar entregar y subir todos los proyectos.
 que estoy creando personalmente y los proyectos que estoy adquiriendo del Bootcamp.
-📫 Cómo contactarme, Puedes contactarme a través de LinkedIn, donde puedes enviarme un mensaje.
+- 📫 Cómo contactarme, Puedes contactarme a través de LinkedIn, donde puedes enviarme un mensaje.
 www.linkedin.com/in/mar-prieto-garcia
-😄 Pronombres: ella
-⚡ Dato curioso: Tengo curiosidad por ver si puedo crear un paisaje virtual a través de código, como si fuera un paisaje pintado con acuarelas.
+- 😄 Pronombres: ella
+- ⚡ Dato curioso: Tengo curiosidad por ver si puedo crear un paisaje virtual a través de código, como si fuera un paisaje pintado con acuarelas.
