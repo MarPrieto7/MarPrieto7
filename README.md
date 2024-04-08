@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarPrieto7 = MarPrieto7,
+# 👋 Hi, I’m @MarPrieto7 = MarPrieto7,
 - I love art and nature, for their landscapes, for the color palette, nuances that are discovered,
 and for the moments of disconnection they provide.
 - 👀 I'm interested in continuous learning, and following this constant search for how a website is built, what security can be provided.
